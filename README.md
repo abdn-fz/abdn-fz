@@ -10,7 +10,6 @@
 Ottawa, Ontario, Canada · Bilingual French / English
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F4166?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/fzabdn)
-[![GitHub](https://img.shields.io/badge/GitHub-2A2724?style=flat-square&logo=github&logoColor=white)](https://github.com/abdn-fz?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-2A2724?style=flat-square\&logo=gmail\&logoColor=white)](mailto:aboudeinefatimazohra@gmail.com)
 
 </div>
@@ -258,8 +257,6 @@ I am especially interested in projects involving **data preparation, exploratory
 📧 **Email:** [aboudeinefatimazohra@gmail.com](mailto:aboudeinefatimazohra@gmail.com)
 
 💼 **LinkedIn:** [linkedin.com/in/fzabdn](https://linkedin.com/in/fzabdn)
-
-💻 **GitHub:** [github.com/abdn-fz](https://github.com/abdn-fz?tab=repositories)
 
 📍 **Ottawa, Ontario, Canada**
 
