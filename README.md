@@ -1,5 +1,7 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3000&pause=1000&color=2F4166&center=true&vCenter=true&width=600&lines=Data%2C+told+clearly.;Les+donn%C3%A9es%2C+racont%C3%A9es+simplement.;Applied+Data+Science+%40+Coll%C3%A8ge+La+Cit%C3%A9;%C3%89tudiante+en+sciences+des+donn%C3%A9es+appliqu%C3%A9es" alt="Typing SVG" />
-  
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=22&duration=3000&pause=1000&color=2F4166&center=true&vCenter=true&width=600&lines=Data%2C+told+clearly.;Les+donn%C3%A9es%2C+racont%C3%A9es+simplement.;Applied+Data+Science+%C2%B7+Machine+Learning+%C2%B7+Data+%26+BI;Building+data-driven+solutions" alt="Typing SVG" />
+
 # Fatima Zohra Aboudeine
 
 ### Applied Data Science · Machine Learning · Data & BI
@@ -17,17 +19,19 @@ Ottawa, Ontario, Canada · Bilingual French / English
 
 ## 👋 About me
 
-I am an **Applied Data Science co-op student at Collège La Cité**, building my skills across **Python, SQL, data visualization, business intelligence, machine learning and big data**.
+I am an **Applied Data Science student at Collège La Cité**, focused on **machine learning, data analysis, business intelligence and data-driven problem solving**.
 
-My approach to data is shaped by a background that came before tech.
+I work primarily with **Python, SQL, Power BI and Microsoft Fabric**, with academic experience spanning machine learning, statistics, databases, big data and distributed data processing.
 
-Before moving into data science, I worked across **economics, digital media, professional training and banking**, where I learned how to communicate complex subjects, work with different audiences and turn information into something useful.
+My approach to data is also shaped by a background that came before tech.
 
-Today, I bring that same perspective to data:
+Before moving into data science, I worked across **economics, digital media, professional training and banking**, where I developed experience in research, communication, project coordination and working with different audiences.
+
+Today, I bring that perspective to data:
 
 > **Build the analysis. Understand the problem. Explain the result clearly.**
 
-I am particularly interested in **machine learning, applied data science, analytics and data-driven decision making**, with a growing focus on end-to-end projects that connect data preparation, analysis, visualization and predictive modeling.
+I am particularly interested in **machine learning, applied data science, AI, analytics and business intelligence**, with a focus on projects that connect **data preparation, exploration, visualization and predictive modeling**.
 
 🎓 **DEC – Applied Data Science, Co-op** · Collège La Cité · 2025–2028
 
@@ -54,7 +58,7 @@ Each step added something different:
 * 🏦 **Banking** → customer needs, business context and financial environments
 * 📊 **Data Science** → combining these experiences with programming, statistics and machine learning
 
-I am now building a technical foundation that allows me to move from **understanding information** to **extracting insights and building data-driven solutions**.
+I am now developing the technical foundation to move from **understanding information** to **extracting insights, building predictive models and creating data-driven solutions**.
 
 ---
 
@@ -70,27 +74,27 @@ I am now building a technical foundation that allows me to move from **understan
 
 ### 📊 Business Intelligence
 
-`Power BI` · `Microsoft Fabric` · `Power Query` · `DAX`
+`Power BI` · `Microsoft Fabric` · `Power Query` · `DAX` · `Semantic Models`
 
 ### 🤖 Machine Learning
 
 `Scikit-learn` · `Supervised Learning` · `Classification` · `Clustering` · `Model Evaluation` · `Feature Engineering`
 
-### 🧠 Deep Learning
-
-`Neural Networks` · `Deep Learning Fundamentals` · `Python`
-
-### ☁️ Big Data & Cloud
-
-`Hadoop` · `HDFS` · `Spark` · `Databricks` · `Microsoft Fabric` · `ADLS` · `Amazon S3`
-
 ### 📐 Statistics & Data Analysis
 
 `Exploratory Data Analysis` · `Descriptive Statistics` · `Hypothesis Testing` · `Data Visualization` · `CRISP-DM`
 
+### ☁️ Big Data & Distributed Processing
+
+`Hadoop` · `HDFS` · `Spark` · `Databricks` · `Microsoft Fabric` · `ADLS` · `Amazon S3`
+
+### 🧠 Deep Learning
+
+`Neural Networks` · `Deep Learning Fundamentals`
+
 ### 🔧 Tools
 
-`Git` · `GitHub` · `Jupyter Notebook` · `VS Code` · `Docker` · `Anaconda`
+`Git` · `GitHub` · `Jupyter Notebook` · `VS Code` · `Anaconda`
 
 ---
 
@@ -98,32 +102,34 @@ I am now building a technical foundation that allows me to move from **understan
 
 ### Microsoft Certified: Fabric Analytics Engineer Associate
 
-**DP-600**
+**DP-600 · Microsoft**
 
-My Fabric certification complements my studies in advanced databases and distributed data processing, including concepts such as:
+My DP-600 certification reflects knowledge of designing and implementing analytics solutions with **Microsoft Fabric**, including areas such as:
 
+* Microsoft Fabric
 * OneLake
-* Data lineage
 * Power BI
 * Semantic models
 * DAX
+* Data transformation
 * Data pipelines
 * Dataflows Gen2
-* Fabric Real-Time Analytics
-* Data governance
+* Data analytics and integration
+
+This certification complements my academic studies in **advanced databases and distributed data processing**, including Hadoop, HDFS, Spark, Databricks and cloud data concepts.
 
 ---
 
-## 📚 What I'm currently learning
+## 🔎 Current Focus
 
-My current studies are progressively connecting several areas of the data ecosystem:
+I am currently focusing on connecting different parts of the data ecosystem into practical, end-to-end workflows:
 
 ```text
                     DATA SCIENCE
                          │
           ┌──────────────┼──────────────┐
           │              │              │
-       Python           SQL          Statistics
+       Python           SQL         Statistics
           │              │              │
      ┌────┴────┐         │         ┌────┴────┐
      │         │         │         │         │
@@ -135,8 +141,6 @@ My current studies are progressively connecting several areas of the data ecosys
                          │
                  Machine Learning
                          │
-                  Deep Learning
-                         │
              ┌───────────┴───────────┐
              │                       │
           Power BI              Big Data
@@ -144,7 +148,7 @@ My current studies are progressively connecting several areas of the data ecosys
           Fabric            Hadoop / Spark
 ```
 
-My goal is not simply to collect tools, but to understand **how they fit together in an end-to-end data workflow**.
+My goal is not simply to collect tools, but to understand **how they fit together in an end-to-end data workflow** — from raw data and preparation to analysis, modeling, visualization and communication.
 
 ---
 
@@ -168,28 +172,28 @@ Montréal · Ottawa-Gatineau · Toronto · Winnipeg · Regina · Saskatoon · Ca
 * How do these indicators compare across cities?
 * How does **Ottawa-Gatineau** fit into the broader Canadian picture?
 
-### 🧰 Pipeline
+### 🧰 Current workflow
 
-`CSV Data` → `Python EDA` → `Data Cleaning` → `SQL` → `Data Integration` → `Power BI` → `Machine Learning`
+`Multiple Data Sources` → `Python EDA` → `Data Cleaning & Transformation` → `Data Integration` → `Visualization`
 
-**Tools:** Python · Pandas · SQL · Power BI · Microsoft Fabric · Machine Learning
+**Core tools:** Python · Pandas · SQL · Power BI · Microsoft Fabric
 
 **Status:** 🔄 In progress
+
+The project is being developed progressively, with additional analysis, visualization and modeling planned as the workflow evolves.
 
 ---
 
 ## 🧪 Data Science Projects
 
-This GitHub is progressively becoming a collection of projects covering different stages of the data science workflow.
+This GitHub is becoming a collection of projects covering different stages of the data science workflow.
 
-| Project                             | Focus                                | Tools                          | Status              |
-| ----------------------------------- | ------------------------------------ | ------------------------------ | ------------------- |
-| 🇨🇦 **Canadian City Intelligence** | Multi-source city analysis           | Python · SQL · Power BI · ML   | 🔄 In progress      |
-| 📊 **Data Analysis Projects**       | EDA & visualization                  | Python · R · SQL               | 🔄 Ongoing          |
-| 🤖 **Machine Learning Studies**     | Classification & clustering          | Python · Scikit-learn          | 🔄 Learning         |
-| 🧠 **Deep Learning Studies**        | Neural networks & fundamentals       | Python                         | 🔄 Learning         |
+| Project                             | Focus                               | Tools                            | Status         |
+| ----------------------------------- | ----------------------------------- | -------------------------------- | -------------- |
+| 🇨🇦 **Canadian City Intelligence** | Multi-source Canadian city analysis | Python · Pandas · SQL · Power BI | 🔄 In progress |
+| 📊 **Data Analysis Projects**       | EDA, transformation & visualization | Python · R · SQL                 | 🔄 Ongoing     |
 
-More projects will be added as I progress through my studies.
+More projects will be added as I continue expanding my work across **data science, machine learning and analytics**.
 
 ---
 
@@ -210,11 +214,11 @@ Areas of study include:
 * Data visualization
 * Power BI
 * Machine learning
-* Deep learning
+* Deep learning fundamentals
 * Advanced databases
 * Big data
 * Hadoop & distributed processing
-* Cloud technologies
+* Cloud data concepts
 * Data preparation & quality
 * Data science projects
 
@@ -239,16 +243,15 @@ That perspective is now becoming part of how I approach data science.
 
 ## 🎯 What I'm looking for
 
-I am currently building my portfolio and looking for a **co-op opportunity in data science and related data roles** where I can apply and continue developing my technical skills.
+I am currently seeking a **Winter 2027 co-op opportunity** where I can apply my background in **data science, machine learning, Python, SQL, Power BI and Microsoft Fabric** to real-world data problems.
 
-Areas of interest include:
+I am particularly interested in opportunities related to:
 
 **Data Science · Machine Learning · AI · Data Analytics · Business Intelligence · Data Engineering**
 
-I am especially interested in opportunities where I can work with **real-world data, build meaningful analyses, develop predictive models and communicate results clearly.**
+I am especially interested in projects involving **data preparation, exploratory analysis, predictive modeling, visualization and data-driven decision making**.
 
 ---
-
 
 ## 📫 Let's connect
 
