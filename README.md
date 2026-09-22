@@ -45,7 +45,7 @@ I am particularly interested in **machine learning, applied data science, AI, an
 
 ## 🧭 My journey into Data Science
 
-My path into data has not been linear — and that's part of what I bring to it.
+My path into data has not been linear - and that's part of what I bring to it.
 
 **Economics** → **Media** → **Digital** → **Professional Training** → **Banking** → **Data Science**
 
@@ -148,7 +148,7 @@ I am currently focusing on connecting different parts of the data ecosystem into
           Fabric            Hadoop / Spark
 ```
 
-My goal is not simply to collect tools, but to understand **how they fit together in an end-to-end data workflow** — from raw data and preparation to analysis, modeling, visualization and communication.
+My goal is not simply to collect tools, but to understand **how they fit together in an end-to-end data workflow** - from raw data and preparation to analysis, modeling, visualization and communication.
 
 ---
 
@@ -199,7 +199,7 @@ More projects will be added as I continue expanding my work across **data scienc
 
 ## 🎓 Academic Path
 
-### Collège La Cité — Ottawa, Ontario
+### Collège La Cité - Ottawa, Ontario
 
 **DEC – Applied Data Science, Co-op**
 2025–2028
