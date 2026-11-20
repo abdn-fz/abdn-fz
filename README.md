@@ -1,10 +1,10 @@
 # 👋 Bonjour, moi c’est Fatima Zohra !
 
-### Étudiante en science des données appliquée | Analyse statistique · Analyse de données · Business Intelligence
+### Étudiante en science des données appliquées | Analyse statistique · Analyse de données · Business Intelligence
 
-🎓 Étudiante en **science des données appliquée au Collège La Cité**, à Ottawa, je m’intéresse particulièrement à l’exploitation des données, à l’analyse statistique et à la création de solutions décisionnelles.
+🎓 Étudiante en **science des données appliquées au Collège La Cité**, à Ottawa, je m’intéresse particulièrement à l'analyse statistique, à l'exploitation des données et à la création de solutions décisionnelles.
 
-J’aime transformer des données brutes en informations fiables, compréhensibles et utiles à la prise de décision. Mon approche combine rigueur analytique, qualité des données et visualisation.
+J'aime transformer des données brutes en informations fiables, compréhensibles et utiles à la prise de décision. Mon approche combine rigueur analytique, qualité des données, modélisation et visualisation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fzabdn)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboudeinefatimazohra@gmail.com)
@@ -17,14 +17,14 @@ Mon parcours m'a permis de développer une vision transversale des données, à 
 
 Aujourd'hui, je développe mes compétences en science des données avec un intérêt particulier pour :
 
-- 📊 **Analyse statistique :** exploration des données, statistiques descriptives, régression, corrélation et interprétation des résultats.
+- 📊 **Analyse statistique :** statistiques descriptives, corrélation, régression, ANOVA et interprétation des résultats.
 - 🔎 **Analyse de données :** nettoyage, préparation, validation, exploration et détection des anomalies.
 - 📈 **Business Intelligence :** création de rapports, tableaux de bord et modèles sémantiques.
-- 🧮 **Analyse avec Excel :** transformation des données, Power Query et exploitation des données.
+- 🧮 **Excel et Power Query :** manipulation, transformation et analyse des données.
 - 🤖 **Modélisation :** régression, apprentissage automatique et évaluation des modèles.
 - 🗄️ **Gestion des données :** SQL, bases de données relationnelles et processus ETL.
 
-Mon objectif : rendre les données plus accessibles et les analyses plus pertinentes pour soutenir les décisions d'affaires.
+**Mon objectif :** rendre les données plus accessibles et les analyses plus pertinentes pour soutenir les décisions d'affaires.
 
 ---
 
@@ -47,7 +47,7 @@ Mon objectif : rendre les données plus accessibles et les analyses plus pertine
 - Visualisation et interprétation des résultats
 - Évaluation et comparaison de modèles statistiques
 
-**Outils :** R, RStudio, Python, Pandas, NumPy, Matplotlib, Seaborn, ggplot2, dplyr.
+**Outils :** R, RStudio, ggplot2, dplyr, Python, Pandas, NumPy, Matplotlib et Seaborn.
 
 ### 📈 Excel et Business Intelligence
 
@@ -65,7 +65,7 @@ Mon objectif : rendre les données plus accessibles et les analyses plus pertine
 
 ### 🐍 Programmation et qualité des données
 
-- Python : Pandas, NumPy, Matplotlib, scikit-learn
+- Python : Pandas, NumPy, Matplotlib et scikit-learn
 - Validation et contrôle de qualité avec Pandera
 - Prétraitement et transformation des données
 - Feature engineering et évaluation de modèles
@@ -74,7 +74,7 @@ Mon objectif : rendre les données plus accessibles et les analyses plus pertine
 ### 🗄️ Bases de données et technologies
 
 - SQL et bases de données relationnelles
-- Requêtes, extraction et transformation des données
+- Extraction, transformation et analyse des données
 - Concepts ETL et gestion des flux de données
 - Hadoop, HDFS, Spark et Databricks
 - Microsoft Fabric, OneLake et Azure Data Lake Storage
@@ -125,43 +125,76 @@ Projet d'analyse statistique visant à étudier les données de consommation én
 
 **Compétences démontrées :** analyse statistique, modélisation, comparaison de modèles, validation et interprétation des résultats.
 
-### 2. 🏥 Analyse de l'accès aux professionnels de la santé au Canada
+### 2. 🏨 Analyse exploratoire des réservations hôtelières
 
-**Projet académique en cours | Python**
+**Projet académique | R**
 
-Projet d'analyse de données consacré à l'étude de l'accès aux professionnels de la santé au Canada.
+Analyse exploratoire d'un jeu de données de **119 390 réservations** provenant de deux établissements : City Hotel et Resort Hotel.
 
-**Technologies :** Python, Pandas, Matplotlib, Pandera, scikit-learn.
+**Technologies :** R, tidyverse.
 
-**Travaux réalisés :**
-- Préparation et exploration des données.
-- Nettoyage et validation de la qualité des données.
-- Analyse et visualisation des informations.
-- Utilisation d'outils de traitement et d'analyse avec Python.
-- Application de méthodes de science des données.
+**Axes d'analyse :**
+- Délais de réservation et comportements des clients.
+- Tarifs journaliers moyens (ADR).
+- Annulations selon le type d'hôtel.
+- Variation des tarifs selon les mois d'arrivée.
+- Relations entre délai de réservation, tarif et annulation.
+
+**Compétences démontrées :**
+- Exploration et préparation de données.
+- Analyse statistique descriptive.
+- Comparaison de groupes et de distributions.
+- Analyse de corrélation.
+- Identification et interprétation de tendances et valeurs atypiques.
+- Communication de résultats analytiques.
+
+🔗 **[Consulter le projet sur GitHub](https://github.com/abdn-fz/aed-hotels-reservations/tree/main)**
+
+### 3. 🏥 Analyse de l'accès aux soins de santé au Canada (2015–2022)
+
+**Projet académique | Python · Analyse de données · Power BI**
+
+Projet consacré à l'évolution de l'accès à un fournisseur habituel de soins primaires au Canada, aux écarts entre les régions et les groupes de population, ainsi qu'aux effets de la pandémie de COVID-19.
+
+**Technologies et outils :** Python, Pandas, Matplotlib, Pandera, scikit-learn, Power BI et Jira.
+
+**Travaux et axes d'analyse :**
+- Étude de l'évolution de l'accès aux soins entre 2015 et 2022.
+- Comparaison des écarts entre les provinces et la moyenne nationale.
+- Analyse des différences selon l'âge et le sexe.
+- Étude des périodes avant, pendant et après la pandémie.
+- Préparation et validation des données.
+- Organisation du projet selon la démarche CRISP-DM.
+- Préparation de livrables analytiques et de visualisations.
 
 **Évaluation :** 95 % à l'étape actuellement évaluée du projet.
 
-**Compétences démontrées :** qualité des données, analyse exploratoire, programmation Python et démarche analytique.
+**Compétences démontrées :** analyse de données publiques, qualité des données, démarche analytique, interprétation statistique et communication des résultats.
 
-### 3. 🇨🇦 Canadian City Intelligence
+🔗 **[Consulter le projet sur GitHub](https://github.com/abdn-fz/canada-healthcare-access-analysis)**
+
+### 4. 🇨🇦 Canadian City Intelligence
 
 **Projet personnel | En cours**
 
-Projet visant à explorer et à comparer différentes villes canadiennes à partir d'indicateurs socioéconomiques.
+Projet d'analyse de données visant à explorer et comparer les caractéristiques socioéconomiques de grandes villes canadiennes.
 
-**Axes d'analyse :**
-- Population et emploi
+**Indicateurs étudiés :**
+- Population
 - Taux de chômage
 - Criminalité
-- Coût de la vie
-- Logement
+- Indice des prix à la consommation (IPC)
+- Indice des prix du logement
 
 **Technologies :** Python, Pandas, SQL, Power BI et Microsoft Fabric.
 
-🔗 [Consulter le projet sur GitHub](https://github.com/abdn-fz/canadian-city-intelligence)
+**Objectifs :**
+- Préparer et transformer des données provenant de différentes sources.
+- Réaliser des analyses exploratoires et statistiques.
+- Comparer les indicateurs socioéconomiques entre les villes.
+- Développer des visualisations pour faciliter l'interprétation des résultats.
 
-**Objectif :** structurer plusieurs sources de données afin de produire une analyse comparative et des visualisations facilitant la compréhension des réalités socioéconomiques des villes canadiennes.
+🔗 **[Consulter le projet sur GitHub](https://github.com/abdn-fz/canadian-city-intelligence)**
 
 ---
 
@@ -169,7 +202,7 @@ Projet visant à explorer et à comparer différentes villes canadiennes à part
 
 **Collège La Cité — Ottawa, Ontario**
 
-Programme : Science des données appliquée (coop)
+Programme : Science des données appliquées (coop)
 
 📅 2025–2028
 
@@ -183,7 +216,7 @@ Cours et résultats pertinents :
 
 ---
 
-## 💡 Au-delà des compétences techniques
+## 💡 Compétences professionnelles
 
 Mon parcours professionnel dans les domaines bancaire, numérique, économique et de la formation m'a également permis de développer :
 
