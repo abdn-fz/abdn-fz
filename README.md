@@ -1,265 +1,214 @@
-# 👋 Bonjour, moi c’est Fatima Zohra !
+# 👋 Bonjour, je suis Fatima Zohra Aboudeine
 
-### Étudiante en science des données appliquées | Analyse statistique · Analyse de données · Business Intelligence
+### Candidate à un stage coopératif en analyse de données | Data Analytics | Statistiques | Business Intelligence
 
-🎓 Étudiante en **science des données appliquées au Collège La Cité**, à Ottawa, je m’intéresse particulièrement à l'analyse statistique, à l'exploitation des données et à la création de solutions décisionnelles.
+Étudiante en **Applied Data Science – Co-op au Collège La Cité**, à Ottawa, je suis à la recherche d'un **stage coopératif pour l'hiver 2027** dans le domaine de l'analyse de données, de l'analyse statistique ou de la Business Intelligence.
 
-J'aime transformer des données brutes en informations fiables, compréhensibles et utiles à la prise de décision. Mon approche combine rigueur analytique, qualité des données, modélisation et visualisation.
+Je développe des compétences en collecte, nettoyage, exploration, analyse et visualisation de données. Grâce à mes projets académiques, je mets en pratique Python, SQL, R, Power BI et Microsoft Fabric pour transformer des données en informations utiles à la prise de décision.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fzabdn)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aboudeinefatimazohra@gmail.com)
+Je souhaite intégrer une équipe où je pourrai contribuer à des projets concrets, appliquer mes connaissances et développer mon expérience professionnelle.
 
 ---
 
-## 👩‍💻 À propos de moi
+## 🎯 Objectif de stage — Hiver 2027
 
-Mon parcours m'a permis de développer une vision transversale des données, à la croisée de l'économie, du numérique, de la formation et du secteur bancaire.
+**Programme :** Applied Data Science – Co-op  
+**Établissement :** Collège La Cité  
+**Localisation :** Ottawa, Ontario  
+**Période recherchée :** Hiver 2027
 
-Aujourd'hui, je développe mes compétences en science des données avec un intérêt particulier pour :
+Domaines ciblés :
+- Data Analyst / Analyste de données
+- Junior Business Intelligence Analyst
+- Statistical Analyst / Analyste statistique
+- Data Quality Analyst / Analyste qualité des données
+- Data Reporting Analyst / Analyste en production de rapports
 
-- 📊 **Analyse statistique :** statistiques descriptives, corrélation, régression, ANOVA et interprétation des résultats.
-- 🔎 **Analyse de données :** nettoyage, préparation, validation, exploration et détection des anomalies.
-- 📈 **Business Intelligence :** création de rapports, tableaux de bord et modèles sémantiques.
-- 🧮 **Excel et Power Query :** manipulation, transformation et analyse des données.
-- 🤖 **Modélisation :** régression, apprentissage automatique et évaluation des modèles.
-- 🗄️ **Gestion des données :** SQL, bases de données relationnelles et processus ETL.
+---
 
-**Mon objectif :** rendre les données plus accessibles et les analyses plus pertinentes pour soutenir les décisions d'affaires.
+## 🎓 Profil académique
+
+- **Programme :** Applied Data Science – Co-op, Collège La Cité (2025–2028)
+- **GPA :** 4,15 / 4,3
+- **Certification :** Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+- **Résultats remarquables :** 100 % en Intelligence artificielle appliquée au prétraitement des données, 98,8 % en Collecte et nettoyage des données et 95 % en Exploration des données (notes actuelles, automne 2026).
+- **Distinctions :** A+ en Fondements des statistiques, Techniques de bases de données et Bases de données avancées.
 
 ---
 
 ## 🛠️ Compétences techniques
 
-### 📊 Analyse statistique et traitement des données
+### Analyse et préparation des données
+- Collecte et nettoyage des données
+- Exploration et analyse descriptive
+- Validation et contrôle de la qualité des données
+- Détection des valeurs aberrantes
+- Préparation et transformation des jeux de données
 
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudioide&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-- Analyse exploratoire des données (EDA)
+### Statistiques et modélisation
 - Statistiques descriptives et inférentielles
 - Régression linéaire et polynomiale
-- Analyse de corrélation et ANOVA
-- Analyse des résidus et détection des valeurs aberrantes
-- Préparation, nettoyage et validation des données
-- Visualisation et interprétation des résultats
-- Évaluation et comparaison de modèles statistiques
+- ANOVA
+- Analyse des résidus
+- Évaluation et comparaison de modèles
 
-**Outils :** R, RStudio, ggplot2, dplyr, Python, Pandas, NumPy, Matplotlib et Seaborn.
+### Business Intelligence et visualisation
+- Power BI
+- Microsoft Fabric
+- DAX
+- Power Query
+- Modélisation sémantique
+- Excel
+- Création de rapports et tableaux de bord
 
-### 📈 Excel et Business Intelligence
+### Programmation et bases de données
+- Python : Pandas, NumPy, Matplotlib, Pandera, Scikit-learn
+- R : RStudio, ggplot2, dplyr
+- SQL
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-
-- Analyse et manipulation avancée des données avec Excel
-- Préparation et transformation avec Power Query
-- Création de tableaux de bord et rapports interactifs
-- Modélisation des données et modèles sémantiques
-- DAX et indicateurs de performance (KPI)
-- Intégration et exploitation des données avec Microsoft Fabric
-- Présentation des résultats pour faciliter la prise de décision
-
-### 🐍 Programmation et qualité des données
-
-- Python : Pandas, NumPy, Matplotlib et scikit-learn
-- Validation et contrôle de qualité avec Pandera
-- Prétraitement et transformation des données
-- Feature engineering et évaluation de modèles
-- Automatisation de traitements analytiques
-
-### 🗄️ Bases de données et technologies
-
-- SQL et bases de données relationnelles
-- Extraction, transformation et analyse des données
-- Concepts ETL et gestion des flux de données
-- Hadoop, HDFS, Spark et Databricks
-- Microsoft Fabric, OneLake et Azure Data Lake Storage
-- Git, GitHub, Jupyter Notebook et VS Code
+### Méthodologies et outils
+- CRISP-DM
+- Jira
+- Documentation et communication des résultats
+- Analyse et résolution de problèmes
 
 ---
 
-## 🏅 Certification professionnelle
+## 🏅 Certification
 
-### Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
+**Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**
 
-Certification officielle Microsoft attestant de compétences en ingénierie analytique avec Microsoft Fabric.
-
-**Domaines couverts :**
-- Microsoft Fabric et OneLake
-- Power BI et modèles sémantiques
-- Transformation et intégration des données
-- Power Query et DAX
-- Dataflows Gen2 et pipelines
-- Analyse et exploitation des données
-
-Cette certification renforce mes compétences en Business Intelligence et en conception de solutions analytiques.
+Certification Microsoft portant sur la conception, la gestion et l'optimisation de solutions analytiques avec Microsoft Fabric.
 
 ---
 
-## 🚀 Projets en analyse de données et statistique
+## 📂 Projets académiques et personnels
 
-### 1. 🔋 Prévision de la consommation énergétique et comparaison de modèles
+### 1. Canada Healthcare Access Analysis
+
+**Projet académique | En cours de réalisation**
+
+[🔗 GitHub – Canada Healthcare Access Analysis](https://github.com/abdn-fz/canada-healthcare-access-analysis)
+
+Analyse de l'accès aux soins de santé au Canada entre 2015 et 2022.
+
+- Étude de l'accès à un fournisseur habituel de soins primaires.
+- Comparaison des différences entre provinces.
+- Analyse des écarts selon l'âge et le sexe.
+- Exploration des tendances avant, pendant et après la COVID-19.
+- Préparation, validation et visualisation des données.
+
+**Technologies :** Python, Pandas, Matplotlib, Pandera, Scikit-learn, Power BI, Jira.  
+**Méthodologie :** CRISP-DM.  
+**Résultat :** 95 % pour la phase actuellement évaluée. Projet en cours.
+
+### 2. Hotel Reservations — Exploratory Data Analysis
 
 **Projet académique | R**
 
-Projet d'analyse statistique visant à étudier les données de consommation énergétique et à comparer différentes approches de modélisation.
+[🔗 GitHub – Hotel Reservations](https://github.com/abdn-fz/aed-hotels-reservations/tree/main)
+
+Analyse exploratoire de 119 390 réservations hôtelières.
+
+- Étude des tendances de réservation.
+- Analyse des annulations et des délais de réservation.
+- Exploration des prix journaliers moyens.
+- Comparaison entre hôtels urbains et hôtels de villégiature.
+- Visualisation des tendances et comportements des clients.
 
 **Technologies :** R, RStudio, ggplot2, dplyr.
 
-**Travaux réalisés :**
-- Nettoyage et préparation des données.
-- Traitement des valeurs manquantes et des incohérences.
-- Exploration et visualisation des données.
-- Construction de modèles de régression linéaire et polynomiale.
-- Étude de modèles intégrant des variables d'interaction.
-- Évaluation des modèles à l'aide du R², de l'ANOVA et de l'analyse des résidus.
-
-**Résultats et apprentissages :**
-- Le modèle polynomial a amélioré les performances par rapport au modèle linéaire de base.
-- Les termes d'interaction ont montré une significativité statistique limitée.
-- Le modèle final a été choisi en tenant compte de la performance et de l'interprétabilité.
-
-**Compétences démontrées :** analyse statistique, modélisation, comparaison de modèles, validation et interprétation des résultats.
-
-### 2. 🏨 Analyse exploratoire des réservations hôtelières
+### 3. Energy Consumption Prediction & Model Comparison
 
 **Projet académique | R**
 
-Analyse exploratoire d'un jeu de données de **119 390 réservations** provenant de deux établissements : City Hotel et Resort Hotel.
+Analyse de données énergétiques et comparaison de modèles statistiques.
 
-**Technologies :** R, tidyverse.
+- Nettoyage et préparation des données.
+- Analyse exploratoire.
+- Régression linéaire et polynomiale.
+- Modèles avec interactions.
+- Comparaison des modèles à l'aide de R² et de l'ANOVA.
+- Analyse des résidus et interprétation des résultats.
 
-**Axes d'analyse :**
-- Délais de réservation et comportements des clients.
-- Tarifs journaliers moyens (ADR).
-- Annulations selon le type d'hôtel.
-- Variation des tarifs selon les mois d'arrivée.
-- Relations entre délai de réservation, tarif et annulation.
+**Résultat :** Le modèle polynomial a amélioré les performances par rapport au modèle linéaire de base. Le modèle final a été sélectionné en tenant compte de sa performance et de son interprétabilité.
 
-**Compétences démontrées :**
-- Exploration et préparation de données.
-- Analyse statistique descriptive.
-- Comparaison de groupes et de distributions.
-- Analyse de corrélation.
-- Identification et interprétation de tendances et valeurs atypiques.
-- Communication de résultats analytiques.
+**Technologies :** R, RStudio, statistiques appliquées.
 
-🔗 **[Consulter le projet sur GitHub](https://github.com/abdn-fz/aed-hotels-reservations/tree/main)**
+### 4. Canadian City Intelligence
 
-### 3. 🏥 Analyse de l'accès aux soins de santé au Canada (2015–2022)
+**Projet personnel | En cours de réalisation**
 
-**Projet académique | Python · Analyse de données · Power BI**
+[🔗 GitHub – Canadian City Intelligence](https://github.com/abdn-fz/canadian-city-intelligence)
 
-Projet consacré à l'évolution de l'accès à un fournisseur habituel de soins primaires au Canada, aux écarts entre les régions et les groupes de population, ainsi qu'aux effets de la pandémie de COVID-19.
+Projet d'analyse comparative de villes canadiennes à partir d'indicateurs socioéconomiques.
 
-**Technologies et outils :** Python, Pandas, Matplotlib, Pandera, scikit-learn, Power BI et Jira.
-
-**Travaux et axes d'analyse :**
-- Étude de l'évolution de l'accès aux soins entre 2015 et 2022.
-- Comparaison des écarts entre les provinces et la moyenne nationale.
-- Analyse des différences selon l'âge et le sexe.
-- Étude des périodes avant, pendant et après la pandémie.
-- Préparation et validation des données.
-- Organisation du projet selon la démarche CRISP-DM.
-- Préparation de livrables analytiques et de visualisations.
-
-**Évaluation :** 95 % à l'étape actuellement évaluée du projet.
-
-**Compétences démontrées :** analyse de données publiques, qualité des données, démarche analytique, interprétation statistique et communication des résultats.
-
-🔗 **[Consulter le projet sur GitHub](https://github.com/abdn-fz/canada-healthcare-access-analysis)**
-
-### 4. 🇨🇦 Canadian City Intelligence
-
-**Projet personnel | En cours**
-
-Projet d'analyse de données visant à explorer et comparer les caractéristiques socioéconomiques de grandes villes canadiennes.
-
-**Indicateurs étudiés :**
 - Population
-- Taux de chômage
+- Emploi et chômage
 - Criminalité
-- Indice des prix à la consommation (IPC)
-- Indice des prix du logement
+- Coût de la vie
+- Logement
 
-**Technologies :** Python, Pandas, SQL, Power BI et Microsoft Fabric.
-
-**Objectifs :**
-- Préparer et transformer des données provenant de différentes sources.
-- Réaliser des analyses exploratoires et statistiques.
-- Comparer les indicateurs socioéconomiques entre les villes.
-- Développer des visualisations pour faciliter l'interprétation des résultats.
-
-🔗 **[Consulter le projet sur GitHub](https://github.com/abdn-fz/canadian-city-intelligence)**
+**Technologies :** Python, Pandas, SQL, Power BI, Microsoft Fabric.
 
 ---
 
-## 🎓 Formation
+## 📚 Formation et résultats académiques
 
-**Collège La Cité — Ottawa, Ontario**
+**Collège La Cité — Applied Data Science (Co-op)**  
+2025–2028 | Ottawa, Ontario
 
-Programme : Science des données appliquées (coop)
+**GPA : 4,15 / 4,3**
 
-📅 2025–2028
+### Résultats actuels — Automne 2026
 
-**Moyenne générale : 4,15 / 4,3**
+| Cours | Note actuelle |
+|---|---:|
+| Intelligence artificielle appliquée au prétraitement des données | **100 %** |
+| Collecte et nettoyage des données | **98,8 %** |
+| Exploration des données | **95 %** |
+| Projet Analyse de données | **95 %** |
+| Bases de données massives avancées | **93,3 %** |
 
-Cours et résultats pertinents :
-- Fondements statistiques — A+
-- Statistiques appliquées — A
-- Techniques de bases de données — A+
-- Bases de données avancées — A+
+### Distinctions académiques précédentes
 
----
+| Cours | Note |
+|---|---:|
+| Fondements des statistiques | **A+** |
+| Techniques de bases de données | **A+** |
+| Bases de données avancées | **A+** |
+| Statistiques appliquées | **A** |
 
-## 💡 Compétences professionnelles
-
-Mon parcours professionnel dans les domaines bancaire, numérique, économique et de la formation m'a également permis de développer :
-
-- Esprit analytique et résolution de problèmes
-- Rigueur et souci du détail
-- Communication et vulgarisation de résultats
-- Capacité d'adaptation et apprentissage continu
-- Collaboration et travail en équipe
-- Compréhension des besoins opérationnels et d'affaires
-
-Je considère que la valeur d'une analyse ne repose pas uniquement sur les outils utilisés, mais aussi sur la capacité à comprendre les besoins, interpréter les résultats et communiquer des conclusions pertinentes.
+*Les notes de l'automne 2026 correspondent aux résultats actuellement affichés sur le portail étudiant.*
 
 ---
 
-## 🎯 Objectif professionnel
+## 💡 Qualités professionnelles
 
-Je recherche une **opportunité de stage coopératif pour l'hiver 2027**, particulièrement dans les domaines suivants :
-
-- Analyse statistique
-- Analyse de données
-- Business Intelligence (BI)
-- Reporting et production de rapports
-- Qualité et gouvernance des données
-- Science des données
-
-Je souhaite contribuer à des projets concrets où les données permettent de mieux comprendre les enjeux et d'améliorer la prise de décision.
+- Esprit analytique et souci du détail
+- Rigueur dans le traitement des données
+- Résolution de problèmes
+- Capacité d'apprentissage et d'adaptation
+- Organisation et gestion des priorités
+- Communication et travail d'équipe
+- Français et anglais
 
 ---
 
-## 📬 Entrons en contact !
+## 🤝 Intéressé à collaborer ?
 
-Je suis toujours intéressée par les projets, les collaborations et les occasions d'apprentissage dans le domaine des données.
+Je suis ouverte aux possibilités de stage coopératif pour l'hiver 2027 dans les domaines de l'analyse de données, des statistiques et de la Business Intelligence.
 
-📍 Ottawa, Ontario, Canada  
-🌐 Français et anglais
-
-- LinkedIn : [linkedin.com/in/fzabdn](https://linkedin.com/in/fzabdn)
-- Courriel : [aboudeinefatimazohra@gmail.com](mailto:aboudeinefatimazohra@gmail.com)
+Je serais heureuse de mettre mes compétences techniques, mon esprit analytique et ma motivation au service d'une équipe.
 
 ---
 
-<p align="center">
-  <b>Des données fiables. Des analyses pertinentes. Des décisions éclairées.</b>
-  <br/>
-  <i>Des données, racontées simplement.</i>
-</p>
+## 📫 Contact
+
+- **LinkedIn :** [linkedin.com/in/fzabdn](https://linkedin.com/in/fzabdn)
+- **Courriel :** [aboudeinefatimazohra@gmail.com](mailto:aboudeinefatimazohra@gmail.com)
+- **GitHub :** [github.com/abdn-fz](https://github.com/abdn-fz)
+
+---
+
+⭐ Merci de visiter mon profil GitHub ! N'hésitez pas à consulter mes projets ou à me contacter pour discuter d'une possibilité de stage coopératif.
