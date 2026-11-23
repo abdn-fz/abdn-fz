@@ -1,8 +1,32 @@
+### 📌 Projets phares
+
+<table>
+  <tr>
+    <td width="33.3%">
+      <a href="https://github.com/abdn-fz/college-admissions-R">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdn-fz&repo=college-admissions-R&theme=default" alt="college-admissions-R" />
+      </a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/abdn-fz/canada-healthcare-access-analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdn-fz&repo=canada-healthcare-access-analysis&theme=default" alt="canada-healthcare-access-analysis" />
+      </a>
+    </td>
+    <td width="33.3%">
+      <a href="https://github.com/abdn-fz/canadian-city-intelligence">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdn-fz&repo=canadian-city-intelligence&theme=default" alt="canadian-city-intelligence" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 # 👋 Bonjour, je suis Fatima Zohra Aboudeine
 
 ### Candidate à un stage coopératif en analyse de données | Data Analytics | Statistiques | Business Intelligence
 
-Étudiante en **Applied Data Science – Co-op au Collège La Cité**, à Ottawa, je suis à la recherche d'un **stage coopératif pour l'hiver 2027** dans le domaine de l'analyse de données, de l'analyse statistique ou de la Business Intelligence.
+Étudiante en **Sciences des données appliquées en mode coopératif au Collège La Cité**, à Ottawa, je suis à la recherche d'un **stage coopératif pour l'hiver 2027** dans le domaine de l'analyse de données, de l'analyse statistique ou de la Business Intelligence.
 
 Je développe des compétences en collecte, nettoyage, exploration, analyse et visualisation de données. Grâce à mes projets académiques, je mets en pratique Python, SQL, R, Power BI et Microsoft Fabric pour transformer des données en informations utiles à la prise de décision.
 
@@ -12,7 +36,7 @@ Je souhaite intégrer une équipe où je pourrai contribuer à des projets concr
 
 ## 🎯 Objectif de stage — Hiver 2027
 
-**Programme :** Applied Data Science – Co-op  
+**Programme :** Sciences des données appliquées en mode coopératif  
 **Établissement :** Collège La Cité  
 **Localisation :** Ottawa, Ontario  
 **Période recherchée :** Hiver 2027
@@ -28,7 +52,7 @@ Domaines ciblés :
 
 ## 🎓 Profil académique
 
-- **Programme :** Applied Data Science – Co-op, Collège La Cité (2025–2028)
+- **Programme :** Sciences des données appliquées en mode coopératif, Collège La Cité (2025–2028)
 - **GPA :** 4,15 / 4,3
 - **Certification :** Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)
 - **Résultats remarquables :** 100 % en Intelligence artificielle appliquée au prétraitement des données, 98,8 % en Collecte et nettoyage des données et 95 % en Exploration des données (notes actuelles, automne 2026).
@@ -48,7 +72,7 @@ Domaines ciblés :
 ### Statistiques et modélisation
 - Statistiques descriptives et inférentielles
 - Régression linéaire et polynomiale
-- ANOVA
+- ANOVA et test du Khi-deux (V de Cramer)
 - Analyse des résidus
 - Évaluation et comparaison de modèles
 
@@ -84,7 +108,23 @@ Certification Microsoft portant sur la conception, la gestion et l'optimisation 
 
 ## 📂 Projets académiques et personnels
 
-### 1. Canada Healthcare Access Analysis
+### 1. College Admissions & Enrollment Statistical Monitoring
+
+**Projet de portfolio | R**
+
+[🔗 GitHub – College Admissions & Enrollment](https://github.com/abdn-fz/college-admissions-R)
+
+Simulation d'un flux récurrent de rapports statistiques pour un bureau des admissions et du registraire (12 extractions hebdomadaires, 92 556 observations).
+
+- Consolidation, dédoublonnage et standardisation des marqueurs de valeurs manquantes.
+- Détection d'incohérences de statuts et gestion des valeurs extrêmes via la méthode de l'écart interquartile (IQR).
+- Création d'un instantané final par demande (`df_final`) pour calculer les taux d'inscription sans double comptage.
+- Tests d'association (Khi-deux, V de Cramer) et comparaison des délais moyens par programme (ANOVA avec diagnostic des résidus).
+- Automatisation des tableaux de synthèse CSV et visualisations sous `ggplot2`.
+
+**Technologies :** R, RStudio, dplyr, ggplot2, statistiques inférentielles.
+
+### 2. Canada Healthcare Access Analysis
 
 **Projet académique | En cours de réalisation**
 
@@ -102,7 +142,7 @@ Analyse de l'accès aux soins de santé au Canada entre 2015 et 2022.
 **Méthodologie :** CRISP-DM.  
 **Résultat :** 95 % pour la phase actuellement évaluée. Projet en cours.
 
-### 2. Hotel Reservations — Exploratory Data Analysis
+### 3. Hotel Reservations — Exploratory Data Analysis
 
 **Projet académique | R**
 
@@ -118,7 +158,7 @@ Analyse exploratoire de 119 390 réservations hôtelières.
 
 **Technologies :** R, RStudio, ggplot2, dplyr.
 
-### 3. Energy Consumption Prediction & Model Comparison
+### 4. Energy Consumption Prediction & Model Comparison
 
 **Projet académique | R**
 
@@ -135,7 +175,7 @@ Analyse de données énergétiques et comparaison de modèles statistiques.
 
 **Technologies :** R, RStudio, statistiques appliquées.
 
-### 4. Canadian City Intelligence
+### 5. Canadian City Intelligence
 
 **Projet personnel | En cours de réalisation**
 
@@ -155,7 +195,7 @@ Projet d'analyse comparative de villes canadiennes à partir d'indicateurs socio
 
 ## 📚 Formation et résultats académiques
 
-**Collège La Cité — Applied Data Science (Co-op)**  
+**Collège La Cité — Sciences des données appliquées en mode coopératif**  
 2025–2028 | Ottawa, Ontario
 
 **GPA : 4,15 / 4,3**
